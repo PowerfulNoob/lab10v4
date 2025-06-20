@@ -1,5 +1,8 @@
 export default {
-    content: ["./index.html", "./src/**/*.{js,ts,jsx,tsx}", "./src/style.css"],
+    content: [
+        "./index.html",
+        "./src/**/*.{js,ts,jsx,tsx}",
+    ],
     safelist: [
         'text-primary',
         'text-2xl',
